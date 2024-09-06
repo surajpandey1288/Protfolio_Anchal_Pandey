@@ -893,6 +893,10 @@ header a.logo img {
     /* show the timeline after events position has been set (using JavaScript) */
     opacity: 1;
 }
+.events
+{
+    width: 100% !important;
+}
 .cd-horizontal-timeline .timeline {
     position: relative;
     height: 100px;
